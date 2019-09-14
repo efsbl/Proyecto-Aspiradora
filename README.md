@@ -5,4 +5,5 @@ Re-programación de vehículo aspiradora originalmente implementado en LUA a pla
 Se incluyen los archivos de test de los módulos de hardware que se utilizan en el proyecto.
 ## Lista de módulos
 - Sensor ultrasónico HC-SR04
+- Puente H L298N con dos motores DC
 - ...
