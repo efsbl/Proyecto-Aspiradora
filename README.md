@@ -6,4 +6,6 @@ Se incluyen los archivos de test de los módulos de hardware que se utilizan en 
 ## Lista de módulos
 - Sensor ultrasónico HC-SR04
 - Puente H L298N con dos motores DC
+- Servo Tower Pro SG90
+- Encoder Optico
 - ...
