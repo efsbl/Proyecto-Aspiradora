@@ -1,5 +1,6 @@
 # Vehículo-Aspiradora
 Proyecto asignado por la cátedra de Taller de Proyecto II, UNLP.
+
 Firmware Vehículo Aspiradora: https://github.com/efsbl/aspiradora-firmware
 
 ## Descripción
